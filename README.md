@@ -149,21 +149,3 @@ python demo.py
 结果如下：
 <p align="center"><img src="./Face_Recongnization_Deploy/prj-tensorrt/out_trt.jpg" width="640"\></p>
 
-
-
-## 更多
-
-### 内容主要是如果在该项目中出现了问题，查看作者的视频！[链接](xxx)
-
-### 同时添加联系方式，和作者一对一答疑。
-
-
-该工程为AIHIA系列课程的一部分，AIHIA课程致力于xxxx,
-<p align="center"><img src="./doc/创新发展联盟.jpg" width="640"\></p>
-
-更多课程：</br>
-[xxxxxxx]()</br>
-[xxxxxxx]()</br>
-[xxxxxxx]()</br>
-[xxxxxxx]()</br>
-[xxxxxxx]()</br>
